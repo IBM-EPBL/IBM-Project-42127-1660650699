@@ -1,0 +1,29 @@
+.textf{
+    display: block;
+    width: 100px;
+    margin: auto;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    /* margin-top: 50px; */
+    margin-bottom: 20px;
+    
+}
+span{
+    display: block;
+    margin-top: 5px;
+}
+input[type=text]{
+    margin-bottom: 2px;
+}
+input[type=email]{
+    margin-bottom: 2px;
+}
+
+.reg{
+    width: 100px;
+    display: block;
+    margin: auto;
+    margin-top: 18px;
+    position: relative;
+    left: 40px;
+}

@@ -1,0 +1,48 @@
+.textf{
+    display: block;
+    width: 100px;
+    margin: auto;
+    padding-top: 30px ;
+
+}
+label{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+span{
+    display: block;
+    margin-top: 5px;   
+}
+
+input[type=text]{
+    margin-bottom: 2px;
+    border: 2px solid blue;
+    border-radius: 2em;
+}
+input[type=email]{
+    margin-bottom: 2px;
+}
+
+input[type=password]{
+    margin-bottom: 2px;
+    border: 2px solid blue;
+    border-radius: 2em;
+}
+
+.reg{
+    width: 100px;
+    display: block;
+    margin: auto;
+    margin-top: 18px;
+    position: relative;
+    left: 37px;
+    background-color:cyan;
+    border-radius: 2em;
+    height: 3em;
+    font-weight: bold;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.reg:hover{
+    cursor:grab;
+    color:papayawhip;
+}
